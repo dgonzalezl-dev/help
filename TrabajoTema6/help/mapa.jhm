@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE map
+PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN"
+"http://java.sun.com/products/javahelp/map_2_0.dtd">
+<map version="1.0">
+   <mapID target="confirmaHabitaciones" url="Fuente/confirmacion_habitaciones.html" />
+   <mapID target="confirmaSalon" url="Fuente/confirmacion_salon.html" />
+   <mapID target="clienteHabitaciones" url="Fuente/datosCliente_habitaciones.html" />
+   <mapID target="clienteSalon" url="Fuente/datosCliente_Salon.html" />
+   <mapID target="reservaHabitaciones" url="Fuente/datosReserva_habitaciones.html" />
+   <mapID target="reservaSalon" url="Fuente/datosReserva_salon.html" />
+   <mapID target="pagPrincipal" url="Fuente/paginaPrincipal.html" />
+   <mapID target="imgPagPrincipalBtnAyuda" url="imagenes/Boton_ayuda.png" />
+   <mapID target="imgPagPrincipalBtnClientes" url="imagenes/Boton_Clientes.png" />
+   <mapID target="imgPagPrincipalBtnReservas" url="imagenes/Boton_Reservas.png" />
+   <mapID target="imgClienteHabitaciones" url="imagenes/cliente_Habitaciones.png" />
+   <mapID target="imgClienteSalon" url="imagenes/cliente_Salon.png" />
+   <mapID target="imgConfirmacionHabitaciones" url="imagenes/confirmacion_Habitaciones.png" />
+   <mapID target="imgConfirmacionSalon" url="imagenes/confirmacion_Habitaciones.png" />
+   <mapID target="imgHotel" url="imagenes/hotel.png" />
+   <mapID target="imgPaginaHabitaciones" url="imagenes/paginaHabitaciones.png" />
+   <mapID target="imgReservaHabitaciones" url="imagenes/reserva_Habitaciones.png" />
+   <mapID target="imgReservaSalon" url="imagenes/reserva_Salon.png" />
+</map>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<index version="1.0">
+    <indexitem text="Pagina principal" target="pagPrincipal"/>
+    <indexitem text="Cliente habitaciones" target="clienteHabitaciones">
+        <indexitem text="Reserva Habitaciones" target="reservaHabitaciones"/>
+        <indexitem text="Confirmar Habitaciones" target="confirmaHabitaciones"/>
+    </indexitem>
+    <indexitem text="Cliente Salon Habana" target="clienteSalon">
+        <indexitem text="Reserva Salon Habana" target="reservaSalon"/>
+        <indexitem text="Confirmar Salon habana" target="confirmaSalon"/>
+    </indexitem>
+</index>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF−8"?>
+
+<toc version="1.0">
+    <tocitem text="Pagina principal" target="pagPrincipal"/>
+    <tocitem text="Cliente habitaciones" target="clienteHabitaciones">
+        <tocitem text="Reserva Habitaciones" target="reservaHabitaciones"/>
+        <tocitem text="Confirmar Habitaciones" target="confirmaHabitaciones"/>
+    </tocitem>
+    <tocitem text="Cliente Salon Habana" target="clienteSalon">
+        <tocitem text="Reserva Salon Habana" target="reservaSalon"/>
+        <tocitem text="Confirmar Salon habana" target="confirmaSalon"/>
+    </tocitem>
+</toc>
